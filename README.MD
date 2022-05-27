@@ -5,3 +5,4 @@ EN LINE PARA GENERAR UN CAMBIO EN LA line para hacer poll desde gitbash
 
 el texto fue agrgado para hcer uso del github desktop
 hola 
+cambio de unos minutos
